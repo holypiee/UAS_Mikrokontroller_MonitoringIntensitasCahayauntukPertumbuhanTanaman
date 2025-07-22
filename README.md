@@ -3,3 +3,5 @@ Proyek ini bertujuan untuk memantau kondisi lingkungan tanaman secara real-time 
 
 # Simulasi Online Wokwi
 https://wokwi.com/projects/437150197302496257
+
+# YOUTUBE
