@@ -5,4 +5,5 @@ Proyek ini bertujuan untuk memantau kondisi lingkungan tanaman secara real-time 
 https://wokwi.com/projects/437150197302496257
 
 # Youtube
+https://youtu.be/Y7lEN4ZWBW4
 
